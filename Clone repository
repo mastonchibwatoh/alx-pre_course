@@ -1,0 +1,5 @@
+$ git clone<repo>
+$ touch test
+$ git add test
+$ git commit -m "commit -m"
+$ git push origin main
